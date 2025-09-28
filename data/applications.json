@@ -1,0 +1,40 @@
+[
+  {
+    "id": "86cbcece-302c-43fa-b1a7-baf8310c8812",
+    "created_at": "2025-09-28T11:35:02.218344Z",
+    "job_id": "job_be_2",
+    "job_title": "Backend Engineer",
+    "preferences": {
+      "role": "backend"
+    },
+    "profile": {
+      "name": "Shyam",
+      "email": "paulshyam546@gmail.com",
+      "preferred_location": "San Francisco"
+    },
+    "answers": {
+      "Explain a performance optimization you implemented for a service.": "made it faster using async processing ",
+      "What’s your approach to zero-downtime deployments?": "adding back up servers "
+    },
+    "resume_text": "Palavalli Shyam\n+91-9390270614 |palavallishyam@gmail.com |/linkedin |/github\nEducation\nIndian Institute of Technology (Indian School Of Mines), Dhanbad CGPA: 7.47/10\nBachelor of Technology in Electrical Engineering July 2019 – May 2023\nTechnical Skills\nLanguages : C/C++, Python, HTML, CSS, JavaScript\nAI/ML & Frameworks : PyTorch, TensorFlow, Hugging Face\nDevelopment & Tools : React, Node.js, MongoDB, Mongoose, Git, Linux\nExperience\nSamsung Research Institute Bangalore [ /gl⌢be] August 2023– Present\nSoftware Development Engineer - Deep Learning Bangalore, India\n•Built and refined models for video restoration and low-light denoising using diffusion models and vision\ntransformers, achieving a +2 MOS perceptual quality improvement over previous solutions.\n•End-to-end experience in the ML stack, including data preparation, model training, evaluation, and performance\nbenchmarking for large-scale video datasets.\n•Invented and patented methods to enhance stereo images using generative AI techniques, enabling higher depth\naccuracy and richer visual details.\n•Built the project code base from scratch and implemented comprehensive automated test suites to ensure robust\ncode quality assessment in SonarQube, consistently meeting industry standards, maximizing code coverage, and\npassing all critical quality gates.\nSamsung Research Institute Bangalore [ /gl⌢be] May 2022– July 2022\nSoftware Engineer Intern - Deep Learning Bangalore, India\n•Developed AI solution for End to End Portrait Bokeh using deep neural network model.\nProjects\nPost Book: A Social Media Full-Stack Web App |React, Node, MongoDB, Cloudinary [/github]\n•Developed a social media web applicaiton with user Authentication where users can post images, blogs and have\nfeatures like Search, Like, Edit, Delete posts.\nImage Super Resolution using GAN |PyTorch [/github]\n•Implemented SRGAN to upscale low-resolution images, significantly improving their quality and detail.\n•Pretrained the ResNet with L1 loss on DIV2K Dataset and fintuned with Adversial loss along with perceptual loss\nPatents\nAn Efficient framework for enhancing stereo images\n•Inventors: Swapnil Malviya, Subhasmita Sahoo, Palvalli Shyam , Raj Narayana Gadde\nApplication Number: 202441057438\nAchievements & Certifications\n•Secured All India Rank 5753 in JEE ADVANCED among over 160 Thousand Candidates (2019).\n•Cleared Samsung Global Competency Test (Professional and Advanced coding competency test).\n•Cleared Workera AI Expert level Test (In Office test on Mathematics, Machine learning, Deep Learning and\nGenerative AI).\n•Attended The 9th Summer School on AI at IIIT Hyderabad 2025 /external-link-alt"
+  },
+  {
+    "id": "bac1c83c-4515-47c0-a669-a869b2a20c64",
+    "created_at": "2025-09-28T11:39:32.907464Z",
+    "job_id": "job_be_2",
+    "job_title": "Backend Engineer",
+    "preferences": {
+      "role": "backend"
+    },
+    "profile": {
+      "name": "Shyam",
+      "email": "paulshyam546@gmail.com",
+      "preferred_location": "San Francisco"
+    },
+    "answers": {
+      "Explain a performance optimization you implemented for a service.": "made it faster using async processing ",
+      "What’s your approach to zero-downtime deployments?": "adding a backup server "
+    },
+    "resume_text": "Palavalli Shyam\n+91-9390270614 |palavallishyam@gmail.com |/linkedin |/github\nEducation\nIndian Institute of Technology (Indian School Of Mines), Dhanbad CGPA: 7.47/10\nBachelor of Technology in Electrical Engineering July 2019 – May 2023\nTechnical Skills\nLanguages : C/C++, Python, HTML, CSS, JavaScript\nAI/ML & Frameworks : PyTorch, TensorFlow, Hugging Face\nDevelopment & Tools : React, Node.js, MongoDB, Mongoose, Git, Linux\nExperience\nSamsung Research Institute Bangalore [ /gl⌢be] August 2023– Present\nSoftware Development Engineer - Deep Learning Bangalore, India\n•Built and refined models for video restoration and low-light denoising using diffusion models and vision\ntransformers, achieving a +2 MOS perceptual quality improvement over previous solutions.\n•End-to-end experience in the ML stack, including data preparation, model training, evaluation, and performance\nbenchmarking for large-scale video datasets.\n•Invented and patented methods to enhance stereo images using generative AI techniques, enabling higher depth\naccuracy and richer visual details.\n•Built the project code base from scratch and implemented comprehensive automated test suites to ensure robust\ncode quality assessment in SonarQube, consistently meeting industry standards, maximizing code coverage, and\npassing all critical quality gates.\nSamsung Research Institute Bangalore [ /gl⌢be] May 2022– July 2022\nSoftware Engineer Intern - Deep Learning Bangalore, India\n•Developed AI solution for End to End Portrait Bokeh using deep neural network model.\nProjects\nPost Book: A Social Media Full-Stack Web App |React, Node, MongoDB, Cloudinary [/github]\n•Developed a social media web applicaiton with user Authentication where users can post images, blogs and have\nfeatures like Search, Like, Edit, Delete posts.\nImage Super Resolution using GAN |PyTorch [/github]\n•Implemented SRGAN to upscale low-resolution images, significantly improving their quality and detail.\n•Pretrained the ResNet with L1 loss on DIV2K Dataset and fintuned with Adversial loss along with perceptual loss\nPatents\nAn Efficient framework for enhancing stereo images\n•Inventors: Swapnil Malviya, Subhasmita Sahoo, Palvalli Shyam , Raj Narayana Gadde\nApplication Number: 202441057438\nAchievements & Certifications\n•Secured All India Rank 5753 in JEE ADVANCED among over 160 Thousand Candidates (2019).\n•Cleared Samsung Global Competency Test (Professional and Advanced coding competency test).\n•Cleared Workera AI Expert level Test (In Office test on Mathematics, Machine learning, Deep Learning and\nGenerative AI).\n•Attended The 9th Summer School on AI at IIIT Hyderabad 2025 /external-link-alt"
+  }
+]
